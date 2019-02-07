@@ -9,3 +9,4 @@ ipch/
 *.log
 *.ipch
 MonitorWmiJob/x64/Release/MonitorWmiJob.pch
+.vs/
