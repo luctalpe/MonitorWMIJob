@@ -1,0 +1,11 @@
+MonitorWmiJob/x64/Release/MonitorWmiJob.pch
+ipch/
+*.iobj
+*.ipdb
+*.pdb
+*.tlog
+*.obj
+[Dd]ebug/
+*.log
+*.ipch
+MonitorWmiJob/x64/Release/MonitorWmiJob.pch
